@@ -1,1 +1,1 @@
-# mcp-linkedin
+# LinkedIn MCP Server
